@@ -1,0 +1,27 @@
+article {
+  border: 2px solid red;
+  padding: 20px;
+  max-width: 400px;
+  margin-bottom: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(102, 72, 34);
+}
+.money-price {
+  font-size: 42px;
+  color: rgb(65, 174, 65);
+}
+s {
+  font-size: large;
+  color: rgb(219, 1, 1);
+}
+
+button {
+  color: rgb(255, 255, 255);
+  background-color: green;
+  border: 3px solid black;
+  position: relative;
+  width: 400px;
+  height: 50px;
+  font-size: large;
+  pointer-events: fill black;
+}
